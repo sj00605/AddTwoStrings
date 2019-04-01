@@ -1,4 +1,4 @@
-# Project Title
+# Add Two Strings
 
 This a an implementation of how to add together two integers and/or decimals represented by
 strings without converting them to integers. This is a symbolic manipulation that allows for adding values greater than
